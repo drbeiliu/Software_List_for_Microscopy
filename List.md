@@ -144,7 +144,7 @@ Free Software for Microscopy
 > This Matlab toolbox contains a large aount of very useful (often N-dimensional) **image processing** algorithms. DIPimage features its own datatype (dip_image) and a convenient browser to quickly investigate the results.
 > Microscopy-oriented Feature are: Automatic Thresholding algorithms, Cross-correlation-based shift determination, Segmentation algorithms (e.g. watershed transform), Noise-filtering (e.g. anisotropic diffusion with local structure tensors), Convolution, Measurements of labeled entities (e.g. Major axis direction)...
 
-* [CudaMat](https://code.google.com/p/cudamat/)(Rainer Heintzmann)
+* [CudaMat](https://github.com/cudamat/cudamat)(Rainer Heintzmann)
 > Using NVidia's GPUs for fast data crunching in Matlab.
 
 * [minFunc](http://www.di.ens.fr/~mschmidt/Software/minFunc.html)(Mark Schmidt)
